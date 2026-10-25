@@ -1,0 +1,275 @@
+{
+  "admin": {
+    "id": "admin_1",
+    "username": "admin",
+    "salt": "a8f9c0e2b4d6e8fa1c3e5a7b9d1f3b5e",
+    "passwordHash": "0c1b19b9e90b8cbabce3f06e238e052248f28db153ce6fb3ecf3cbafe2b268b1c52f994588630a2c028948257f228e9522c04822c3f9b97646d30474e28607fe",
+    "lastLogin": "2026-10-23T04:34:55.696Z"
+  },
+  "settings": {
+    "nama_sekolah": "SMK Negeri 1 Pemalang",
+    "npsn": "20324231",
+    "alamat": "Jln. Gatot Subroto No. 31 Pemalang Kode Pos 52319",
+    "logo": "/logo_kop.png",
+    "telepon": "0284 321386",
+    "email": "admin@smkn1pml.sch.id",
+    "tahun_pelajaran": "2025/2026",
+    "nama_kepala_sekolah": "Drs. H. Bambang Sudarsono, M.Pd.",
+    "nip_kepala_sekolah": "19690412 199403 1 005",
+    "jabatan_penandatangan": "Kepala Sekolah",
+    "warna_tema": "#1e3a8a",
+    "judul_pengumuman": "PENGUMUMAN KELULUSAN SISWA KELAS XII",
+    "deskripsi_pengumuman": "Portal resmi pengumuman kelulusan siswa Kelas XII SMK Negeri 1 Pemalang Tahun Pelajaran 2025/2026. Masukkan 10 digit NISN Anda untuk memeriksa hasil dan mengunduh Surat Keterangan Lulus (SKL) sah.",
+    "teks_footer": "© 2026 SMK Negeri 1 Pemalang. Seluruh Hak Cipta Dilindungi Undang-Undang.",
+    "tanggal_pengumuman": "2026-10-23T02:17",
+    "zona_waktu": "Asia/Jakarta",
+    "status_pengumuman": "SUDAH_DIBUKA",
+    "judul_countdown": "Hitung Mundur Waktu Pengumuman Kelulusan",
+    "pesan_sebelum_pengumuman": "Pengumuman hasil kelulusan belum dibuka. Silakan kembali sesuai jadwal yang telah ditentukan.",
+    "pesan_setelah_pengumuman": "Pengumuman resmi kelulusan telah dibuka. Silakan masukkan NISN Anda pada kolom di bawah ini.",
+    "pencarian_aktif": true,
+    "download_skl_aktif": true,
+    "batas_pencarian_per_menit": 30
+  },
+  "students": [
+    {
+      "id": "std_01",
+      "nisn": "0012345678",
+      "nama": "BUDI SANTOSO",
+      "tempat_lahir": "Pemalang",
+      "tanggal_lahir": "01 Januari 2008",
+      "kelas": "XII TJKT 1",
+      "status_kelulusan": "LULUS",
+      "nomor_peserta": "UJN-2026-001",
+      "tahun_pelajaran": "2025/2026",
+      "created_at": "2026-10-23T03:17:17.201Z",
+      "updated_at": "2026-10-23T03:17:17.201Z"
+    },
+    {
+      "id": "std_02",
+      "nisn": "0012345679",
+      "nama": "SITI RAHMAWATI",
+      "tempat_lahir": "Jakarta",
+      "tanggal_lahir": "15 Maret 2008",
+      "kelas": "XII RPL 1",
+      "status_kelulusan": "LULUS",
+      "nomor_peserta": "UJN-2026-002",
+      "tahun_pelajaran": "2025/2026",
+      "created_at": "2026-10-23T03:17:17.201Z",
+      "updated_at": "2026-10-23T03:17:17.201Z"
+    },
+    {
+      "id": "std_03",
+      "nisn": "0012345680",
+      "nama": "AHMAD FAUZI",
+      "tempat_lahir": "Bandung",
+      "tanggal_lahir": "22 Juli 2007",
+      "kelas": "XII TJKT 1",
+      "status_kelulusan": "LULUS",
+      "nomor_peserta": "UJN-2026-003",
+      "tahun_pelajaran": "2025/2026",
+      "created_at": "2026-10-23T03:17:17.201Z",
+      "updated_at": "2026-10-23T03:17:17.201Z"
+    },
+    {
+      "id": "std_04",
+      "nisn": "0012345681",
+      "nama": "DEWI ANGGRAENI",
+      "tempat_lahir": "Surabaya",
+      "tanggal_lahir": "10 Oktober 2007",
+      "kelas": "XII DKV 1",
+      "status_kelulusan": "LULUS",
+      "nomor_peserta": "UJN-2026-004",
+      "tahun_pelajaran": "2025/2026",
+      "created_at": "2026-10-23T03:17:17.201Z",
+      "updated_at": "2026-10-23T03:17:17.201Z"
+    },
+    {
+      "id": "std_05",
+      "nisn": "0012345682",
+      "nama": "MUHAMMAD RIZKY PRATAMA",
+      "tempat_lahir": "Medan",
+      "tanggal_lahir": "05 Mei 2008",
+      "kelas": "XII RPL 2",
+      "status_kelulusan": "LULUS",
+      "nomor_peserta": "UJN-2026-005",
+      "tahun_pelajaran": "2025/2026",
+      "created_at": "2026-10-23T03:17:17.201Z",
+      "updated_at": "2026-10-23T03:17:17.201Z"
+    },
+    {
+      "id": "std_06",
+      "nisn": "0012345683",
+      "nama": "ANNISA PUTRI KINANTI",
+      "tempat_lahir": "Yogyakarta",
+      "tanggal_lahir": "19 Agustus 2008",
+      "kelas": "XII DKV 2",
+      "status_kelulusan": "LULUS",
+      "nomor_peserta": "UJN-2026-006",
+      "tahun_pelajaran": "2025/2026",
+      "created_at": "2026-10-23T03:17:17.201Z",
+      "updated_at": "2026-10-23T03:17:17.201Z"
+    },
+    {
+      "id": "std_07",
+      "nisn": "0012345684",
+      "nama": "FAJAR HIDAYAT",
+      "tempat_lahir": "Semarang",
+      "tanggal_lahir": "03 September 2007",
+      "kelas": "XII TJKT 2",
+      "status_kelulusan": "LULUS",
+      "nomor_peserta": "UJN-2026-007",
+      "tahun_pelajaran": "2025/2026",
+      "created_at": "2026-10-23T03:17:17.201Z",
+      "updated_at": "2026-10-23T03:17:17.201Z"
+    },
+    {
+      "id": "std_08",
+      "nisn": "0012345685",
+      "nama": "RIAN KURNIAWAN",
+      "tempat_lahir": "Bogor",
+      "tanggal_lahir": "14 Februari 2008",
+      "kelas": "XII RPL 1",
+      "status_kelulusan": "LULUS",
+      "nomor_peserta": "UJN-2026-008",
+      "tahun_pelajaran": "2025/2026",
+      "created_at": "2026-10-23T03:17:17.201Z",
+      "updated_at": "2026-10-23T03:17:17.201Z"
+    },
+    {
+      "id": "std_09",
+      "nisn": "0012345686",
+      "nama": "MAYA INDAH LESTARI",
+      "tempat_lahir": "Malang",
+      "tanggal_lahir": "27 November 2007",
+      "kelas": "XII DKV 1",
+      "status_kelulusan": "LULUS",
+      "nomor_peserta": "UJN-2026-009",
+      "tahun_pelajaran": "2025/2026",
+      "created_at": "2026-10-23T03:17:17.201Z",
+      "updated_at": "2026-10-23T03:17:17.201Z"
+    },
+    {
+      "id": "std_10",
+      "nisn": "0012345687",
+      "nama": "DONI SETIAWAN",
+      "tempat_lahir": "Cirebon",
+      "tanggal_lahir": "11 Juni 2007",
+      "kelas": "XII TJKT 2",
+      "status_kelulusan": "TIDAK LULUS",
+      "nomor_peserta": "UJN-2026-010",
+      "tahun_pelajaran": "2025/2026",
+      "created_at": "2026-10-23T03:17:17.201Z",
+      "updated_at": "2026-10-23T03:17:17.201Z"
+    },
+    {
+      "id": "std_11",
+      "nisn": "0012345688",
+      "nama": "NADIA SAVIRA",
+      "tempat_lahir": "Surakarta",
+      "tanggal_lahir": "08 April 2008",
+      "kelas": "XII RPL 2",
+      "status_kelulusan": "BELUM DITETAPKAN",
+      "nomor_peserta": "UJN-2026-011",
+      "tahun_pelajaran": "2025/2026",
+      "created_at": "2026-10-23T03:17:17.201Z",
+      "updated_at": "2026-10-23T03:17:17.201Z"
+    }
+  ],
+  "template": {
+    "id": "tpl_default",
+    "nama_template": "Template Resmi SKL SMK Negeri 1 Pemalang",
+    "nomor_surat_format": "421.5/{{NO_URUT}}/SKL/{{TAHUN}}",
+    "logo_kop": "/logo_kop.png",
+    "logo_kop_kanan": "",
+    "kop_baris_1": "PEMERINTAH PROVINSI JAWA TENGAH",
+    "kop_baris_2": "DINAS PENDIDIKAN",
+    "kop_baris_3": "SMK NEGERI 1 PEMALANG",
+    "kop_baris_4": "Jln. Gatot Subroto No. 31 Pemalang Kode Pos 52319 Telepon 0284 321386",
+    "kop_baris_5": "Faksimile 0284 323376 Surat Elektronik admin@smkn1pml.sch.id",
+    "tampilkan_logo_kop": true,
+    "tampilkan_logo_kop_kanan": true,
+    "tanda_tangan": "",
+    "tampilkan_tanda_tangan": true,
+    "konten_pembuka": "Kepala {{NAMA_SEKOLAH}}, dengan NPSN {{NPSN}}, berdasarkan hasil rapat pleno dewan guru tentang kelulusan peserta didik Tahun Pelajaran {{TAHUN_PELAJARAN}}, dengan ini menerangkan bahwa:",
+    "konten_penutup": "Demikian Surat Keterangan Lulus ini diterbitkan untuk dapat dipergunakan sebagaimana mestinya sampai dengan diterbitkannya Ijazah asli.",
+    "status_aktif": true,
+    "created_at": "2026-10-23T03:17:17.201Z",
+    "updated_at": "2026-10-23T04:34:55.706Z"
+  },
+  "activityLogs": [
+    {
+      "id": "log_1792730095707_l7m58",
+      "aktor": "admin",
+      "jenis_aktivitas": "Template SKL",
+      "detail": "Memperbarui template surat keterangan lulus & kop surat",
+      "created_at": "2026-10-23T04:34:55.707Z"
+    },
+    {
+      "id": "log_1792730095696_4t2l2",
+      "aktor": "admin",
+      "jenis_aktivitas": "Login",
+      "detail": "Admin berhasil login ke dashboard",
+      "created_at": "2026-10-23T04:34:55.696Z"
+    },
+    {
+      "id": "log_1792730083747_ux0qf",
+      "aktor": "admin",
+      "jenis_aktivitas": "Template SKL",
+      "detail": "Memperbarui template surat keterangan lulus & kop surat",
+      "created_at": "2026-10-23T04:34:43.747Z"
+    },
+    {
+      "id": "log_1792730083735_0iphg",
+      "aktor": "admin",
+      "jenis_aktivitas": "Login",
+      "detail": "Admin berhasil login ke dashboard",
+      "created_at": "2026-10-23T04:34:43.735Z"
+    },
+    {
+      "id": "log_1792725449474_b2hyc",
+      "aktor": "admin",
+      "jenis_aktivitas": "Login",
+      "detail": "Admin berhasil login ke dashboard",
+      "created_at": "2026-10-23T03:17:29.474Z"
+    },
+    {
+      "id": "log_01",
+      "aktor": "Sistem",
+      "jenis_aktivitas": "Inisialisasi",
+      "detail": "Sistem Pengumuman Kelulusan Sekolah berhasil diinisialisasi.",
+      "created_at": "2026-10-23T03:17:17.201Z"
+    }
+  ],
+  "importHistory": [],
+  "downloadLogs": [
+    {
+      "id": "dl_1792730088727_jos4i",
+      "nisn": "0012345678",
+      "nama_siswa": "BUDI SANTOSO",
+      "waktu_download": "2026-10-23T04:34:48.727Z",
+      "status": "BERHASIL"
+    },
+    {
+      "id": "dl_1792727705903_e65ul",
+      "nisn": "0012345678",
+      "nama_siswa": "BUDI SANTOSO",
+      "waktu_download": "2026-10-23T03:55:05.903Z",
+      "status": "BERHASIL"
+    },
+    {
+      "id": "dl_1792727311068_kkb0g",
+      "nisn": "0012345678",
+      "nama_siswa": "BUDI SANTOSO",
+      "waktu_download": "2026-10-23T03:48:31.068Z",
+      "status": "BERHASIL"
+    },
+    {
+      "id": "dl_1792726667275_haikf",
+      "nisn": "0012345678",
+      "nama_siswa": "BUDI SANTOSO",
+      "waktu_download": "2026-10-23T03:37:47.275Z",
+      "status": "BERHASIL"
+    }
+  ]
+}

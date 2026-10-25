@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Informasi Pengumuman Kelulusan Sekolah",
+  "description": "Aplikasi resmi pengumuman kelulusan sekolah dan unduh Surat Keterangan Lulus (SKL) digital berbasis NISN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
